@@ -9,7 +9,8 @@
 <!-- Introduction -->
 
 
-- 🎓 Final year B.Tech student at MANUU Hyderabad.
+- 🎓 Dedicated and experienced technical trainer with a passion for empowering others in
+the field of information technology.
 - 🔧 Skilled in MERN stack, React, Node.js, MongoDB, Redux and Java.
 - 📌 Passionate about full-stack development and Senior Technical Trainer.
 - 💡 Open to collaborations on web development and innovative projects.
