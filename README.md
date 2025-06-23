@@ -10,10 +10,10 @@
 
 
 - 🎓 Final year B.Tech student at MANUU Hyderabad.
-- 🔧 Skilled in MERN stack, React, Node.js, MongoDB, and Redux.
-- 📌 Passionate about full-stack development and problem-solving.
+- 🔧 Skilled in MERN stack, React, Node.js, MongoDB, Redux and Java.
+- 📌 Passionate about full-stack development and Senior Technical Trainer.
 - 💡 Open to collaborations on web development and innovative projects.
-- 📩 Reach me at **6006189840** or **bhatmuddu472@gmail.com**.
+- 📩 Reach me at **6005138587** or **yasirnisar1925@gmail.com**.
 
 ---
 
